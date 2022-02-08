@@ -1,12 +1,12 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@unl.edu
+Grant Stoner, gstoner2@unl.edu
 
-(Your teammate's contact info, if appropriate)
+
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+My Project 1 proposal is to generate text based off of interior design blogs/webpages to see if the computer will design it's own room layout. I thought this could be a fun way to test the creativity of the code to see if soemthing worthwile will come of it. I would also like to look into possibly rendering some model of the room the generated text describes. My goals for this project are to see if the computer will pick up accurate design terminology and use it correctly to assemble some sort of unique room layout.
 
 ## Model/Data
 
