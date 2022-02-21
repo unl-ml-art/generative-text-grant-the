@@ -4,6 +4,7 @@ Grant Stoner, gstoner2@unl.edu
 
 
 ## Abstract
+
 I decided to train GPT-2 on reports of UFO sightings. I used the output to record a type of radio show segment listing these generated sightings. I was very impressed with tthe unique nature of the sigtings it put out. The program also retained the format of the original file.
 
 ## Model/Data
@@ -19,8 +20,6 @@ Your code for generating your project:
 ## Results
 
 - generated text: "UFO sightings output.docx"
-
-
 
 ## Reference
 
