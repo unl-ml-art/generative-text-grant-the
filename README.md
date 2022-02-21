@@ -3,32 +3,24 @@
 Grant Stoner, gstoner2@unl.edu
 
 
-
 ## Abstract
-
-My Project 1 proposal is to generate text based off of interior design blogs/webpages to see if the computer will design it's own room layout. I thought this could be a fun way to test the creativity of the code to see if soemthing worthwile will come of it. I would also like to look into possibly rendering some model of the room the generated text describes. My goals for this project are to see if the computer will pick up accurate design terminology and use it correctly to assemble some sort of unique room layout.
+I decided to train GPT-2 on reports of UFO sightings. I used the output to record a type of radio show segment listing these generated sightings. I was very impressed with tthe unique nature of the sigtings it put out. The program also retained the format of the original file.
 
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data). what is your corpus?
+ - I combined the text files of four different lists of UFO sightings into one big text file which I used to train the model. I got the files from textfiles.com
 
 ## Code
 
 Your code for generating your project:
-- training_code.py or training_code.ipynb - your training code
-- generative_code.py or generative_code.ipynb - your generation code
+- gpt2-generate-finetune.ipynb - your training code
 
 ## Results
 
-- Documentation of your generative text in an effective form. A file with your generated text (.pdf, .doc, .txt). 
+- generated text: "UFO sightings output.docx"
 
-## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
 
 ## Reference
 
